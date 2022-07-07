@@ -1,0 +1,11 @@
+--2022-07-06 19:29:27--  https://repo.maven.apache.org/maven2/io/takari/maven-wrapper/0.5.6/maven-wrapper-0.5.6.jar
+Resolving repo.maven.apache.org (repo.maven.apache.org)... 151.101.52.215
+Connecting to repo.maven.apache.org (repo.maven.apache.org)|151.101.52.215|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50710 (50K) [application/java-archive]
+Saving to: ‘/u/nkurtz/adv_java/PortlandStateJavaGettingStarted_Kata/.mvn/wrapper/maven-wrapper.jar’
+
+                  /u/nkurtz/adv_java   0%[                                                                    ]       0  --.-KB/s               /u/nkurtz/adv_java/PortlandStateJava 100%[===================================================================>]  49.52K  --.-KB/s    in 0.004s  
+
+2022-07-06 19:29:27 (12.7 MB/s) - ‘/u/nkurtz/adv_java/PortlandStateJavaGettingStarted_Kata/.mvn/wrapper/maven-wrapper.jar’ saved [50710/50710]
+
